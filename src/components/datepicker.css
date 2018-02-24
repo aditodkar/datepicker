@@ -1,0 +1,43 @@
+#center{
+  width: 150px;
+  margin: 40px auto;
+}
+
+.submit, .display, .title{
+	text-align: center;
+}
+
+.increment{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.decrement{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.status{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#slotsinfo{
+	width: 150px;
+	margin: 40px auto;
+}
+
+#slotsinfo .hour{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#slotsinfo .slots{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
